@@ -1,0 +1,76 @@
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+    background: darkolivegreen;
+}
+li{
+    float: left;
+    padding: 20px;
+
+}
+li,a{
+    padding: 10px;
+    color:blue;
+}
+ li a:hover{
+     background: dimgray;
+
+
+ }
+ p{
+     color: darkslategrey;
+ }
+ h2 {color: crimson
+ }
+ th,td{ border: 2px solid cornflowerblue;
+       padding: 10px;
+       margin: 10px;
+       font-family: "Liberation Sans";
+ }
+ table{
+       border-collapse: collapse;
+       width: 100%;
+       background:lightgreen ;
+     text-emphasis: cornflowerblue;
+ }
+ .cars{
+     border: 10px -moz-mac-accentdarkshadow;
+     width: 100%;
+     background: darkgoldenrod;
+     text-align: -moz-center;
+ }
+ .Fruits{
+     text-align: -moz-center;
+     border: 10px black;
+     width: 100%;
+     background-color: cornflowerblue;
+ }
+ .Robots{
+     text-align: -moz-center;
+     width: 100%;
+     background-color: grey;
+     text-decoration-color: black;
+     border: 10px black;
+ }
+form{
+    background-color: darksalmon;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    position: center;
+    border-block: black;
+    color: cornflowerblue;
+}
+.label{
+     margin: 25px;
+    padding: 25px;
+    text-align: left;
+    text-space: 5%;
+}
+.input{
+     margin: 25px;
+     padding: 25px;
+     text-align: center;
+}
